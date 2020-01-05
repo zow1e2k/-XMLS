@@ -1,0 +1,3 @@
+E:\projects\XML Labs IST-2\RGRTEST\Deanery\ConsoleApp1\obj\Debug\netcoreapp3.1\RGR.csprojAssemblyReference.cache
+E:\projects\XML Labs IST-2\RGRTEST\Deanery\ConsoleApp1\obj\Debug\netcoreapp3.1\RGR.AssemblyInfoInputs.cache
+E:\projects\XML Labs IST-2\RGRTEST\Deanery\ConsoleApp1\obj\Debug\netcoreapp3.1\RGR.AssemblyInfo.cs

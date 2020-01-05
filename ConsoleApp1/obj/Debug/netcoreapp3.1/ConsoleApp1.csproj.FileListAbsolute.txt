@@ -1,0 +1,11 @@
+E:\projects\XML Labs IST-2\RGRTEST\Deanery\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\projects\XML Labs IST-2\RGRTEST\Deanery\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\projects\XML Labs IST-2\RGRTEST\Deanery\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\projects\XML Labs IST-2\RGRTEST\Deanery\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\projects\XML Labs IST-2\RGRTEST\Deanery\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\projects\XML Labs IST-2\RGRTEST\Deanery\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\projects\XML Labs IST-2\RGRTEST\Deanery\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\projects\XML Labs IST-2\RGRTEST\Deanery\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\projects\XML Labs IST-2\RGRTEST\Deanery\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\projects\XML Labs IST-2\RGRTEST\Deanery\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\projects\XML Labs IST-2\RGRTEST\Deanery\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
