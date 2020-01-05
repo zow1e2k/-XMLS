@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="D:/projects/XML Labs IST-2/RGR" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="DEANERYOFFICE">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="DEANERY">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="GROUP">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="STUDENT">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="FULLNAME" type="xs:string" />
+                          <xs:element name="BIRTHDAY" type="xs:string" />
+                          <xs:element name="GRADES">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element maxOccurs="unbounded" name="SUBJECT">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="RATING" type="xs:decimal" />
+                                      <xs:element name="CLASSIFICATION" type="xs:string" />
+                                      <xs:element name="EXAM" type="xs:unsignedByte" />
+                                    </xs:sequence>
+                                    <xs:attribute name="name" type="xs:string" /> <!--use="required"-->
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element name="PAYMENT">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="NUMBEROFDOCUMENT" type="xs:string" />
+                                <xs:element name="LINKTOOBJECT" type="xs:string" />
+                              </xs:sequence>
+                              <xs:attribute name="state" type="xs:string"/>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element maxOccurs="unbounded" name="REFERENCE">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="NUMBEROFREFDOCUMENT" type="xs:string" />
+                                <xs:element name="LINKTOREFOBJECT" type="xs:string" />
+                              </xs:sequence>
+                              <xs:attribute name="type" type="xs:string"/>
+                              <xs:attribute name="state" type="xs:string"/>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="id" type="xs:unsignedInt"/>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="name" type="xs:string"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

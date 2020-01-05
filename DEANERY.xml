@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DEANERYOFFICE xsi:schemaLocation="D:/projects/XML Labs IST-2/RGR/DEANERYOFFICE.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="DEANERYOFFICE.xsd" xmlns:xsd="D:/projects/XML Labs IST-2/RGR" xmlns="D:/projects/XML Labs IST-2/RGR">
+  <!--xmlns="D:\projects\XML Labs IST-2\RGR">-->
+  <DEANERY>
+    <GROUP name="bachelor1-ist-21">
+      <STUDENT id="180731">
+        <FULLNAME>Listener Key Handlerovich</FULLNAME>
+        <BIRTHDAY>13.11.2000</BIRTHDAY>
+        <GRADES>
+          <SUBJECT name="XML">
+            <RATING>3.74</RATING>
+            <CLASSIFICATION>TRUE</CLASSIFICATION>
+            <EXAM>4</EXAM>
+          </SUBJECT>
+          <SUBJECT name="SQL">
+            <RATING>4.5</RATING>
+            <CLASSIFICATION>true</CLASSIFICATION>
+            <EXAM>5</EXAM>
+          </SUBJECT>
+          <SUBJECT name="JAVA">
+            <RATING>3.2</RATING>
+            <CLASSIFICATION>true</CLASSIFICATION>
+            <EXAM>3</EXAM>
+          </SUBJECT>
+          <SUBJECT name="C#">
+            <RATING>0.0</RATING>
+            <CLASSIFICATION>FALSE</CLASSIFICATION>
+            <EXAM>0</EXAM>
+          </SUBJECT>
+          <SUBJECT name="SMM" xmlns="E:/projects/XML Labs IST-2/RGR">
+            <RATING>4.3</RATING>
+            <CLASSIFICATION>FALSE</CLASSIFICATION>
+            <EXAM>0</EXAM>
+          </SUBJECT>
+        </GRADES>
+        <PAYMENT state="PAID">
+          <NUMBEROFDOCUMENT>AS-32-AA-SSTU-814524</NUMBEROFDOCUMENT>
+          <LINKTOOBJECT>http://www.sstu.ru/server/InstituteOfInformationTechnology/Deanery/Groups/2019/bachelor1-ist-21/student/payment/AlexeevAlexeyAlekseevich.pdf</LINKTOOBJECT>
+        </PAYMENT>
+        <REFERENCE type="EDUCATION" state="ISSUED">
+          <NUMBEROFREFDOCUMENT>EDU-SSTU-2019-123163</NUMBEROFREFDOCUMENT>
+          <LINKTOREFOBJECT>http://www.sstu.ru/server/InstituteOfInformationTechnology/Deanery/Groups/2019/bachelor1-ist-21/student/eduDoc/AlexeevAlexeyAlekseevich.pdf</LINKTOREFOBJECT>
+        </REFERENCE>
+      </STUDENT>
+      <STUDENT id="180732">
+        <FULLNAME>Interface Event Listenerovich</FULLNAME>
+        <BIRTHDAY>13.12.2000</BIRTHDAY>
+        <GRADES>
+          <SUBJECT name="XML">
+            <RATING>3.2</RATING>
+            <CLASSIFICATION>true</CLASSIFICATION>
+            <EXAM>3</EXAM>
+          </SUBJECT>
+          <SUBJECT name="SQL">
+            <RATING>5</RATING>
+            <CLASSIFICATION>true</CLASSIFICATION>
+            <EXAM>4</EXAM>
+          </SUBJECT>
+          <SUBJECT name="JAVA">
+            <RATING>5</RATING>
+            <CLASSIFICATION>true</CLASSIFICATION>
+            <EXAM>5</EXAM>
+          </SUBJECT>
+          <SUBJECT name="C#">
+            <RATING>0.0</RATING>
+            <CLASSIFICATION>FALSE</CLASSIFICATION>
+            <EXAM>0</EXAM>
+          </SUBJECT>
+          <SUBJECT name="SMM" xmlns="E:/projects/XML Labs IST-2/RGR">
+            <RATING>0.0</RATING>
+            <CLASSIFICATION>FALSE</CLASSIFICATION>
+            <EXAM>0</EXAM>
+          </SUBJECT>
+        </GRADES>
+        <PAYMENT state="NOTPAID">
+          <NUMBEROFDOCUMENT>AS-32-AA-SSTU-812812</NUMBEROFDOCUMENT>
+          <LINKTOOBJECT>http://www.sstu.ru/server/InstituteOfInformationTechnology/Deanery/Groups/2019/bachelor1-ist-21/student/payment/AlexeevAlexeyAlekseevich.pdf</LINKTOOBJECT>
+        </PAYMENT>
+        <REFERENCE type="EDUCATION" state="ISSUED">
+          <NUMBEROFREFDOCUMENT>EDU-SSTU-2019-123164</NUMBEROFREFDOCUMENT>
+          <LINKTOREFOBJECT>http://www.sstu.ru/server/InstituteOfInformationTechnology/Deanery/Groups/2019/bachelor1-ist-21/student/eduDoc/AlexeevAlexeyAlekseevich.pdf</LINKTOREFOBJECT>
+        </REFERENCE>
+      </STUDENT>
+    </GROUP>
+    <GROUP name="bachelor1-ist-22">
+      <STUDENT id="180733">
+        <FULLNAME>Delegate Csharp Csharpovich</FULLNAME>
+        <BIRTHDAY>13.10.2000</BIRTHDAY>
+        <GRADES>
+          <SUBJECT name="XML">
+            <RATING>3.74</RATING>
+            <CLASSIFICATION>true</CLASSIFICATION>
+            <EXAM>4</EXAM>
+          </SUBJECT>
+          <SUBJECT name="SQL">
+            <RATING>5</RATING>
+            <CLASSIFICATION>true</CLASSIFICATION>
+            <EXAM>5</EXAM>
+          </SUBJECT>
+          <SUBJECT name="JAVA">
+            <RATING>5</RATING>
+            <CLASSIFICATION>true</CLASSIFICATION>
+            <EXAM>5</EXAM>
+          </SUBJECT>
+          <SUBJECT name="C#">
+            <RATING>0.0</RATING>
+            <CLASSIFICATION>FALSE</CLASSIFICATION>
+            <EXAM>0</EXAM>
+          </SUBJECT>
+          <SUBJECT name="SMM" xmlns="E:/projects/XML Labs IST-2/RGR">
+            <RATING>0.0</RATING>
+            <CLASSIFICATION>FALSE</CLASSIFICATION>
+            <EXAM>0</EXAM>
+          </SUBJECT>
+        </GRADES>
+        <PAYMENT state="PAID">
+          <NUMBEROFDOCUMENT>AS-32-AA-SSTU-812123</NUMBEROFDOCUMENT>
+          <LINKTOOBJECT>http://www.sstu.ru/server/InstituteOfInformationTechnology/Deanery/Groups/2019/bachelor1-ist-22/student/payment/AlexeevAlexeyAlekseevich.pdf</LINKTOOBJECT>
+        </PAYMENT>
+        <REFERENCE type="EDUCATION" state="ISSUED">
+          <NUMBEROFREFDOCUMENT>EDU-SSTU-2019-123165</NUMBEROFREFDOCUMENT>
+          <LINKTOREFOBJECT>http://www.sstu.ru/server/InstituteOfInformationTechnology/Deanery/Groups/2019/bachelor1-ist-22/student/eduDoc/AlexeevAlexeyAlekseevich.pdf</LINKTOREFOBJECT>
+        </REFERENCE>
+        <REFERENCE type="MEDCERTIFICATE" state="RECEIVED">
+          <NUMBEROFREFDOCUMENT>AAAAAAAAAA-</NUMBEROFREFDOCUMENT>
+          <LINKTOREFOBJECT>http://www.sstu.ru/server/InstituteOfInformationTechnology/Deanery/Groups/2019/bachelor1-ist-21/student/clinicDocs/19_12_2019_aaaaaaaa.pdf</LINKTOREFOBJECT>
+        </REFERENCE>
+      </STUDENT>
+      <STUDENT id="180734">
+        <FULLNAME>Dispose Internal Protectovich</FULLNAME>
+        <BIRTHDAY>13.09.2000</BIRTHDAY>
+        <GRADES>
+          <SUBJECT name="XML">
+            <RATING>3.8</RATING>
+            <CLASSIFICATION>true</CLASSIFICATION>
+            <EXAM>5</EXAM>
+          </SUBJECT>
+          <SUBJECT name="SQL">
+            <RATING>5</RATING>
+            <CLASSIFICATION>true</CLASSIFICATION>
+            <EXAM>3</EXAM>
+          </SUBJECT>
+          <SUBJECT name="JAVA">
+            <RATING>5</RATING>
+            <CLASSIFICATION>true</CLASSIFICATION>
+            <EXAM>5</EXAM>
+          </SUBJECT>
+          <SUBJECT name="C#">
+            <RATING>0.0</RATING>
+            <CLASSIFICATION>FALSE</CLASSIFICATION>
+            <EXAM>0</EXAM>
+          </SUBJECT>
+          <SUBJECT name="SMM" xmlns="E:/projects/XML Labs IST-2/RGR">
+            <RATING>0.0</RATING>
+            <CLASSIFICATION>FALSE</CLASSIFICATION>
+            <EXAM>0</EXAM>
+          </SUBJECT>
+        </GRADES>
+        <PAYMENT state="PAID">
+          <NUMBEROFDOCUMENT>AS-32-AA-SSTU-812532</NUMBEROFDOCUMENT>
+          <LINKTOOBJECT>http://www.sstu.ru/server/InstituteOfInformationTechnology/Deanery/Groups/2019/bachelor1-ist-22/student/payment/AlexeevAlexeyAlekseevich.pdf</LINKTOOBJECT>
+        </PAYMENT>
+        <REFERENCE type="EDUCATION" state="ISSUED">
+          <NUMBEROFREFDOCUMENT>EDU-SSTU-2019-123166</NUMBEROFREFDOCUMENT>
+          <LINKTOREFOBJECT>http://www.sstu.ru/server/InstituteOfInformationTechnology/Deanery/Groups/2019/bachelor1-ist-22/student/eduDoc/AlexeevAlexeyAlekseevich.pdf</LINKTOREFOBJECT>
+        </REFERENCE>
+      </STUDENT>
+    </GROUP>
+  </DEANERY>
+</DEANERYOFFICE>
